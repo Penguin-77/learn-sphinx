@@ -20,7 +20,6 @@ master_doc = 'index'
 extensions = [
     'recommonmark',
     'sphinxemoji.sphinxemoji',
-    'rst2pdf.pdfbuilder',
     'sphinx.ext.autodoc',
     'sphinx.ext.viewcode',
     'sphinx.ext.todo',
@@ -47,7 +46,7 @@ html_static_path = ['_static']
 
 sphinxemoji_style = 'twemoji'
 
-numfig = True
+# numfig = True
 
 
 

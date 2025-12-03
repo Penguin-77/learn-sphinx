@@ -8,6 +8,7 @@ build:
 
 sphinx:
   configuration: source/conf.py
+  fail_on_warning: false
 
 formats:
   - pdf
