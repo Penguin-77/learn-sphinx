@@ -2,3 +2,5 @@
 sphinx>=5.0
 sphinx-rtd-theme
 recommonmark
+sphinxemoji
+sphinx-markdown-tables
