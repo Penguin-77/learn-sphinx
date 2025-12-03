@@ -14,5 +14,5 @@ formats:
   - htmlzip
 
 python:
-install:
-- requirements: requirements.txt
+   install:
+     - requirements: requirements.txt
